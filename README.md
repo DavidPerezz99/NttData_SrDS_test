@@ -1,6 +1,6 @@
 # Conecta+ - Prediccion de cancelacion
 
-Solucion de la prueba tecnica de Ciencia de Datos para estimar la probabilidad de cancelacion en los siguientes 90 dias y decidir a que clientes contactar mediante valor esperado.
+Solucion de la prueba tecnica.
 
 Repositorio: [https://github.com/DavidPerezz99/NttData_SrDS_test](https://github.com/DavidPerezz99/NttData_SrDS_test)
 

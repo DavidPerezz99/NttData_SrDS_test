@@ -36,10 +36,6 @@ Se utilizo inteligencia artificial como apoyo para auditar las fuentes, revisar 
 
 **Implementado:** usar un umbral diferente por plan y contactar solo cuando el valor esperado sea positivo. Se agregaron aserciones sobre filas, identificadores, probabilidades, nulos y formato del CSV.
 
-## Cambios que requieren revision del candidato
-
-- Sustituir el usuario y repositorio del boton de Colab en `README.md`.
-
 
 ## Tiempo invertido
 
